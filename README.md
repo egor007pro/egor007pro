@@ -21,7 +21,7 @@
 <!-- Статистика -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EGOR_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Статистика">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=egor007pro&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Статистика">
   </a>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EGOR_USERNAME&theme=vision-friendly-dark&hide_border=true" alt="Стрик">
 </div>
