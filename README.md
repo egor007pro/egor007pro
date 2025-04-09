@@ -7,7 +7,7 @@
 
 <!-- Бейджи -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EGOR_USERNAME&label=PROFILE+VIEWS&color=2e4058&style=for-the-badge" alt="Просмотры"> 
+  <img src="https://komarev.com/ghpvc/?username=egor007pro&label=PROFILE+VIEWS&color=2e4058&style=for-the-badge" alt="Просмотры"> 
   <img src="https://img.shields.io/badge/Age-18-2e8b57?style=for-the-badge" alt="Возраст">
   <img src="https://img.shields.io/badge/Code_Time-400_Hrs-00b4d8?style=for-the-badge&logo=codecademy" alt="Время кодинга">
 </p>
@@ -23,7 +23,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=egor007pro&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Статистика">
   </a>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EGOR_USERNAME&theme=vision-friendly-dark&hide_border=true" alt="Стрик">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=egor007pro&theme=vision-friendly-dark&hide_border=true" alt="Стрик">
 </div>
 
 <!-- Анимированный раздел -->
